@@ -1,0 +1,1 @@
+Public demo assets used by the Multan Clinic Elementor Template Kit. These are generated demo visuals and should be replaced with verified clinic media before production use.
